@@ -8,6 +8,8 @@
 <a href="https://www.figma.com/file/i0WxaKhEFBCgVoiepPvJRB/David-L%C3%B3pez-Orozco?type=design&mode=design&t=QMUmCHIbh0AmEaRA-1">Link Diseño Figma</a>
 
 <h2>punto 2 : Diseño en HTML</h2>
+<img src="public/images/Esructura_Atenea.png" alt= "Imágen_Diseo_Figma">Link Diseño HTML 5 - del Diseño Figma</img>
+
 <h2>punto 3 : Diseño con CSS</h2>
 <h2>punto 4 : Títulos</h2>
 <h2>punto 5 : Párrafos</h2>
