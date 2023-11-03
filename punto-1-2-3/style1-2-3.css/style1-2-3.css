@@ -1,0 +1,23 @@
+html{
+    display: flex;
+    background: linear-gradient(hsl(176, 59%, 60%),#0997be ,#0e5fbc);
+}
+img{
+    border-radius: 18px;
+}
+h1 {
+    text-shadow: 2px 2px 5px rgb(75, 74, 74);
+  }
+  h2 {
+    text-shadow: 2px 2px 5px rgb(75, 74, 74);
+  }
+  button{
+    box-shadow: 2px 2px 5px rgb(75, 74, 74);
+    cursor: help;
+  }
+  button:hover{
+    background-color: #0e5fbc;
+  }
+  li{
+    list-style-type: none;
+  }

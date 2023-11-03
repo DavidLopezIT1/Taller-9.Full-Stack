@@ -1,7 +1,15 @@
 body {
+  display: flex;
   text-align: center;
   color: #000000b5;
   font-family: system-ui, -apple-system;
+  background: linear-gradient(#854406fc, #cb690efc);
+}
+#titler{
+  color: aliceblue;
+}
+#title{
+  color: aliceblue;
 }
 
 body, div {
@@ -61,4 +69,7 @@ a {
 
 a:hover {
   background-color: #e87537e2;
+}
+#P1-2-3, #P4, #P5 ,#P6 ,#P7-8, #P9, #P-Aditional {
+  color: white;
 }
