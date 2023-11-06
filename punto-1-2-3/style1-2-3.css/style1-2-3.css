@@ -1,10 +1,10 @@
 html{
     background-color: white;
-    padding: 2% 5%;
+    padding: 0px;
 }
 header{
   display: flex;
-  padding: 0%;  
+  padding: 2% 5% 1px;  
   
 }
 #ImaHeader{
@@ -109,6 +109,7 @@ li{
   }
 #Banner{
     display: flex;
+    margin: 2% 5% 1px;
     border-radius: 35px;
     border-bottom-right-radius: 190px;
     margin-top: 30px;
@@ -146,6 +147,8 @@ li{
 }
 #section-1{
   display: flex;
+  margin-bottom: 50px;
+  padding: 0% 5% 1px;
 }
 .Section-1__Info1{
   color: #010851;
@@ -168,45 +171,58 @@ li{
   width: 300px;
   line-height: 10px;
 }
-.Section-1__Card{
+.Section-1__Card1{
   display: block;
   margin-top: 80px;
   width: 160px;
   height: 225px;
   color: black;
   background-color: #cfcfcf00;
-  box-shadow:2px 2px 5px rgb(75, 74, 74) ;
+  box-shadow:2px 2px 7px rgb(75, 74, 74) ;
   padding: 10px;
   text-align: center;
   align-items: center;
   margin-right: 60px;
   border-radius: 25px;
 }
-.Section-2__Card{
+.Section-1__Card2{
   display: block;
   margin-top: 160px;
   width: 160px;
   height: 225px;
   color: black;
   background-color: #cfcfcf00;
-  box-shadow:2px 2px 5px rgb(75, 74, 74) ;
+  box-shadow:2px 2px 7px rgb(75, 74, 74) ;
   padding: 10px;
   text-align: center;
   align-items: center;
   margin-right: 60px;
   border-radius: 25px;
 }
-.Section-3__Card{
+.Section-1__Card3{
   display: block;
   margin-top: 80px;
   width: 160px;
   height: 225px;
   color: black;
   background-color: #cfcfcf00;
-  box-shadow:2px 2px 5px rgb(75, 74, 74) ;
+  box-shadow:2px 2px 7px rgb(75, 74, 74) ;
   padding: 10px;
   text-align: center;
   align-items: center;
   margin-right: 60px;
   border-radius: 25px;
+}
+#section-2{
+  display: inherit;
+  background-color: #ec80fd43;
+  margin: 0px;
+ 
+}
+.section-2__Info1{
+  display: flex;
+}
+.section-2__Info2{
+  display: flex;
+
 }
