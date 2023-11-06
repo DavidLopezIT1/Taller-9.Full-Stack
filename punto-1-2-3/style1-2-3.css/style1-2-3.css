@@ -69,7 +69,6 @@ nav ul{
   margin-right: 100px;
   padding-left:1px ;
 }
-
 img{
     border-radius: 18px;
 
@@ -111,7 +110,7 @@ li{
 #Banner{
     display: flex;
     border-radius: 35px;
-    border-bottom-right-radius: 160px;
+    border-bottom-right-radius: 190px;
     margin-top: 30px;
     background: linear-gradient(#5961F9, #ED80FD);
     padding-bottom: 50px;
@@ -144,4 +143,70 @@ li{
   width: 100px;
   height: 40px;
   background-color: #cfcfcf00;
+}
+#section-1{
+  display: flex;
+}
+.Section-1__Info1{
+  color: #010851;
+  line-height: 50px;
+  font-size: 25px;
+
+}
+.Section-1__Info2{
+  color: black;
+  margin-top: 10px;
+  line-height: 18px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 12px;
+  padding-right: 60px;
+}
+.Mast_Info{
+  display: block;
+  margin-top: 40px;
+  padding-left: 105px;
+  width: 300px;
+  line-height: 10px;
+}
+.Section-1__Card{
+  display: block;
+  margin-top: 80px;
+  width: 160px;
+  height: 225px;
+  color: black;
+  background-color: #cfcfcf00;
+  box-shadow:2px 2px 5px rgb(75, 74, 74) ;
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+  margin-right: 60px;
+  border-radius: 25px;
+}
+.Section-2__Card{
+  display: block;
+  margin-top: 160px;
+  width: 160px;
+  height: 225px;
+  color: black;
+  background-color: #cfcfcf00;
+  box-shadow:2px 2px 5px rgb(75, 74, 74) ;
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+  margin-right: 60px;
+  border-radius: 25px;
+}
+.Section-3__Card{
+  display: block;
+  margin-top: 80px;
+  width: 160px;
+  height: 225px;
+  color: black;
+  background-color: #cfcfcf00;
+  box-shadow:2px 2px 5px rgb(75, 74, 74) ;
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+  margin-right: 60px;
+  border-radius: 25px;
 }
