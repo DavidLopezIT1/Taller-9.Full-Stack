@@ -45,11 +45,12 @@ nav ul{
   display: flex;
 }
 #Nav_Header_Button{
-  border-radius: 6px;
+  border-radius: 8px;
   width: 100px;
   height: 40px;
   background-color: #cfcfcf00;
   color: black;
+  border-color:rgba(0, 0, 0, 0);
 }
 #Nav_Header_Button:hover{
   background-color: #ED80FD;
@@ -100,6 +101,7 @@ h2 {
 button{
     box-shadow: 2px 2px 5px rgb(75, 74, 74);
     cursor:pointer;
+    border-color:rgba(0, 0, 0, 0);
   }
 button:hover{
     background-color: #ED80FD;
@@ -133,14 +135,14 @@ li{
     text-shadow: 2px 2px 5px rgb(75, 74, 74);
   }
 .BS1_Saber_Más{
-  border-radius: 6px;
+  border-radius: 8px;
   width: 100px;
   height: 40px;
   margin-right: 35px;
   background-color: #FD909E;
 }
 .BS1_Planes{
-  border-radius: 6px;
+  border-radius: 8px;
   width: 100px;
   height: 40px;
   background-color: #cfcfcf00;
@@ -217,12 +219,81 @@ li{
   display: inherit;
   background-color: #ec80fd43;
   margin: 0px;
+  padding-bottom: 100px;
  
 }
 .section-2__Info1{
   display: flex;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+.Text_section-2__Info1{
+  display: block;
+  width: 500px;
+  padding-top: 25px;
+  margin-left: 90px;
+}
+.Text_section-2__Info1_1{
+    color: #010851;
+    font-family: sans-serif;
+    font-size: 37px;
+    margin-bottom: 8px;
+    line-height: 50px;
+    width: 450px;
+}
+.Text_section-2__Info1_2{
+    color: #ED80FD;
+    font-family: sans-serif;
+    font-size: 37px;
+    margin-top: 2px;
+
+}
+.section-2__Info1_Button{
+    width: 100px;
+    height: 40px;
+    background-color:#FD909E ;
+    border-radius: 8px;
+    border-color:rgba(0, 0, 0, 0);
+    margin-top:17px;
 }
 .section-2__Info2{
   display: flex;
-
+  margin-top: 80px;
+  padding-left:140px ;
+}
+p{
+  color: #454868;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  width: 450px;
+}
+.Text_section-2__Info2_1{
+  color: #010851;
+    font-family: sans-serif;
+    font-size: 37px;
+}
+.Text_section-2__Info2_2{
+  color: #ED80FD;
+    font-family: sans-serif;
+    font-size: 37px;
+}
+.Text_section-2__Info2_3{
+    margin-top: 80px;
+}
+.section-2__Info2_Button{
+  width: 100px;
+    height: 40px;
+    background-color:#FD909E ;
+    border-radius: 8px;
+    border-color:rgba(0, 0, 0, 0);
+    margin-top:17px;
+}
+#Img_Sec2_2{
+  margin-left: 80px;
+  margin-top: 30px;
+}
+footer{
+  display: inherit;
+  background-color: #010851;
 }
