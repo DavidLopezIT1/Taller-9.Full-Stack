@@ -1,23 +1,147 @@
 html{
-    display: flex;
-    background: linear-gradient(hsl(176, 59%, 60%),#0997be ,#0e5fbc);
+    background-color: white;
+    padding: 2% 5%;
 }
+header{
+  display: flex;
+  padding: 0%;  
+  
+}
+#ImaHeader{
+  display: flex;
+  width: 80px;
+  height: 80px;
+}
+nav ul{
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+}
+#Color_Letter{
+  color: black;
+}
+#Color_Letter2{
+  color: black;
+}
+#Color_Letter3{
+  color: black;
+}
+#Color_Letter4{
+  color: black;
+}
+.Header_World_Language{
+  display: flex;
+  width: 18px;
+  height: 18px;
+  padding-right:180px ;
+  color: #454868;
+}
+.Header_World{
+  width: 18px;
+  height: 18px;
+  padding-right: 14px;
+}
+.Nav_Header_Button{
+  display: flex;
+}
+#Nav_Header_Button{
+  border-radius: 6px;
+  width: 100px;
+  height: 40px;
+  background-color: #cfcfcf00;
+  color: black;
+}
+#Nav_Header_Button:hover{
+  background-color: #ED80FD;
+
+}
+.Header_Navigator{
+  display: flex;
+  width: 1240px;
+}
+.Language{
+  display: flex;
+  width: 360px;
+  padding-top: 15px;
+  justify-content: space-around;
+}
+.Lang_Espan{
+  margin-right: 100px;
+  padding-left:1px ;
+}
+
 img{
     border-radius: 18px;
+
 }
 h1 {
     text-shadow: 2px 2px 5px rgb(75, 74, 74);
   }
-  h2 {
+.Baner_T1{
+font-family: 'Arial Narrow Bold';
+font-size: 44px;
+color:aliceblue;
+width: 450px;
+padding-left: 100px;
+line-height: 85px;
+padding-top: 10px;
+}
+#Banner_T2{
+  padding-left: 100px;
+  font-family: sans-serif;
+  font-size: 13.3px;
+  color:aliceblue;
+  width: 450px;
+  line-height: 22px;
+
+}
+h2 {
     text-shadow: 2px 2px 5px rgb(75, 74, 74);
   }
-  button{
+button{
     box-shadow: 2px 2px 5px rgb(75, 74, 74);
-    cursor: help;
+    cursor:pointer;
   }
-  button:hover{
-    background-color: #0e5fbc;
+button:hover{
+    background-color: #ED80FD;
   }
-  li{
+li{
     list-style-type: none;
   }
+#Banner{
+    display: flex;
+    border-radius: 35px;
+    border-bottom-right-radius: 160px;
+    margin-top: 30px;
+    background: linear-gradient(#5961F9, #ED80FD);
+    padding-bottom: 50px;
+
+  }
+.Img_Banner__1{
+    padding-bottom: 0px;
+    padding-top: 40px;
+    padding-left: 25px;
+    width: 500px;
+    height: 360px;
+
+
+  }
+.Banner__Buttons{
+     display: flex;
+    padding-left: 100px;
+    margin-top: 0px;
+    text-shadow: 2px 2px 5px rgb(75, 74, 74);
+  }
+.BS1_Saber_Más{
+  border-radius: 6px;
+  width: 100px;
+  height: 40px;
+  margin-right: 35px;
+  background-color: #FD909E;
+}
+.BS1_Planes{
+  border-radius: 6px;
+  width: 100px;
+  height: 40px;
+  background-color: #cfcfcf00;
+}
