@@ -241,6 +241,10 @@ li{
     line-height: 50px;
     width: 450px;
 }
+.Text1_Somos{
+  width: 250px;
+
+}
 .Text_section-2__Info1_2{
     color: #ED80FD;
     font-family: sans-serif;
@@ -294,6 +298,55 @@ p{
   margin-top: 30px;
 }
 footer{
-  display: inherit;
+  display: flex;
   background-color: #010851;
+  padding:20px 30px ;
+  justify-items: flex-start;
+  align-items: flex-start;
+  
+}
+.Footer__Info1{
+    width: 375px;
+}
+.Footer_Text1{
+  color: white;
+  width: 375px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+#User_Email{
+  height: 40px;
+  width: 260px;
+  border-bottom-left-radius: 8px;
+  border-top-left-radius: 8px;
+  background-color:#fd909e28; 
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.Footer_Button{
+    width: 100px;
+    height: 43px;
+    background-color:#FD909E ;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+    border-color:rgba(0, 0, 0, 0);
+    margin-top:17px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.Footer_Thead{
+    font-family:serif;
+    font-weight: 0.3px;
+    color: whitesmoke;
+    
+}
+.Footer__Info1{
+  padding-bottom: 60px;
+}
+.Footer__Info2{
+    padding-top: 40px;
+    margin-left: 180px;
+}
+table{
+  
 }
