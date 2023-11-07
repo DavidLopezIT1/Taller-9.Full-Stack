@@ -297,6 +297,10 @@ p{
   margin-left: 80px;
   margin-top: 30px;
 }
+.Blank_Section{
+  margin: 0%;
+  margin-top: 120px;
+}
 footer{
   display: flex;
   background-color: #010851;
@@ -338,6 +342,7 @@ footer{
     font-family:serif;
     font-weight: 0.3px;
     color: whitesmoke;
+    justify-content: center;
     
 }
 .Footer__Info1{
@@ -348,5 +353,26 @@ footer{
     margin-left: 180px;
 }
 table{
-  
+   line-height: 45px;
+}
+a{
+  padding-left:12px;
+  color: whitesmoke;
+  font-size: 11px;
+}
+.td_Sec_1{
+  padding-right: 18px;
+}
+.td_Sec_2{
+  padding-left:25px;
+
+}
+.td_Sec_3{
+  padding-left:75px;
+}
+.T_Head_sec2{
+  padding-left: 23px;
+}
+thead{
+  line-height: 40px;
 }
