@@ -1,13 +1,10 @@
 html{
     background-color: white;
     padding: 0px;
-    display:flex;
-    flex-wrap: wrap;
 }
 header{
   display: flex;
   padding: 2% 5% 1px;  
-
   
 }
 #ImaHeader{
