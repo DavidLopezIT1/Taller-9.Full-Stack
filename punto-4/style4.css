@@ -1,0 +1,37 @@
+html{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(violet,purple);
+    justify-content: center;
+}
+header{
+    display: block;
+    padding-top: 30px;
+    
+}
+button{
+    border-radius: 8px;
+  width: 150px;
+  height: 40px;
+  background-color: #9cde0fbb;
+  color: black;
+  border-color:rgba(0, 0, 0, 0);
+  
+}
+h1{
+    color: red;
+
+}
+h2{
+    color: blue;
+}
+h3{
+    color: green;
+}
+h4{
+    color: rgb(89, 0, 108);
+}
+h5{
+    color: rgb(248, 145, 127);
+}

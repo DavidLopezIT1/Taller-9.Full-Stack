@@ -1,14 +1,18 @@
 html{
     background-color: white;
     padding: 0px;
+    display:flex;
+    flex-wrap: wrap;
 }
 header{
   display: flex;
   padding: 2% 5% 1px;  
+
   
 }
 #ImaHeader{
   display: flex;
+  
   width: 80px;
   height: 80px;
 }
@@ -46,9 +50,9 @@ nav ul{
 }
 #Nav_Header_Button{
   border-radius: 8px;
-  width: 100px;
+  width: 150px;
   height: 40px;
-  background-color: #cfcfcf00;
+  background-color: #9cde0fbb;
   color: black;
   border-color:rgba(0, 0, 0, 0);
 }
