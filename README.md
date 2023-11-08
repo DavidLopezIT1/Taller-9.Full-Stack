@@ -21,6 +21,10 @@
 <a href="http://127.0.0.1:3000/punto-4/index.html">Punto 4 Títulos + Button Main Menu</a>
 
 <h2>punto 5 : Párrafos</h2>
+<img src="./punto-5/Public/Images/screencapture-127-0-0-1-3000-punto-5-index-html-2023-11-07-23_11_39.png">Screen Google Image Punto 5
+</img><br>
+<a href="http://127.0.0.1:3000/punto-5/index.html">Punto 5 Parrafos + Button Main Menu</a>
 <h2>punto 6 : Links</h2>
+
 <h2>punto 7 y 8 : Navegación</h2>
 <h2>punto 9 : Tabla</h2>

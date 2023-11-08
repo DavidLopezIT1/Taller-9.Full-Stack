@@ -1,0 +1,39 @@
+html{
+    display: flex;
+    flex-wrap: wrap;
+    background: linear-gradient(violet,purple);
+    height: 100%;
+    width: 700px;
+    text-align: center;
+    padding-left: 300px;
+}
+button{
+    border-radius: 8px;
+    width: 150px;
+    height: 40px;
+    background-color: #9cde0fbb;
+    color: black;
+    border-color:rgba(0, 0, 0, 0);
+    margin-bottom: 30px;
+}
+
+.Segundo{
+    color: green;
+    text-decoration:underline;
+}
+.Cuarto{
+    color: red;
+}
+.Sexto{
+    text-decoration:overline underline;
+}
+.Octavo{
+    font-family: serif;
+    font-size: 35px;
+}
+.Decimo{
+    color: blue;
+}
+.Undecimo{
+    color: red;
+}
