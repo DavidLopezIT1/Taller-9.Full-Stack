@@ -25,6 +25,8 @@
 </img><br>
 <a href="http://127.0.0.1:3000/punto-5/index.html">Punto 5 Parrafos + Button Main Menu</a>
 <h2>punto 6 : Links</h2>
-
+<img src="./punto-6/Public/Images/Captura de pantalla 2023-11-07 a la(s) 11.36.17 p. m..png">Screen Google Image Punto 6
+</img><br>
+<a href="http://127.0.0.1:3000/punto-6/index.html">Punto 6 Links </a>
 <h2>punto 7 y 8 : Navegación</h2>
 <h2>punto 9 : Tabla</h2>

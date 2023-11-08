@@ -1,0 +1,17 @@
+html{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.793);
+}
+.Div_1{
+    color: yellow;
+}
+.Div_2{
+    color: violet;
+}
+.Div_1:hover{
+    color: rgb(0, 68, 255);
+}
+.Div_2:hover{
+    color: rgb(0, 255, 42);
+}
