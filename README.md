@@ -17,7 +17,7 @@
 <a href="https://github.com/DavidLopezIT1/Taller-9.Full-Stack.git">Link del repositorio con el código Fuente (HTML y CSS)</a>
 <h2>punto 4 : Títulos</h2>
 <img src="./punto-4/Public/Images/screencapture-127-0-0-1-3000-punto-4-index-html-2023-11-06-22_19_09.png">Screen Google Image
-</img><br>
+</img><br>santyfcw@gmail.com
 <a href="http://127.0.0.1:3000/punto-4/index.html">Punto 4 Títulos + Button Main Menu</a>
 
 <h2>punto 5 : Párrafos</h2>
@@ -29,4 +29,6 @@
 </img><br>
 <a href="http://127.0.0.1:3000/punto-6/index.html">Punto 6 Links </a>
 <h2>punto 7 y 8 : Navegación</h2>
+<img src="./punto-7-8/public/Images/Captura de pantalla 2023-11-08 a la(s) 11.10.07 p. m..png "<img/>
+<a href="http://127.0.0.1:3000/punto-7-8/index.html"> Punto 7 y 8 Navegación </a>
 <h2>punto 9 : Tabla</h2>
