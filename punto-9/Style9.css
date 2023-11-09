@@ -1,0 +1,56 @@
+html{
+    display: flex;
+    height: 100%;
+    background: linear-gradient(rgb(130, 200, 238), rgb(2, 42, 118));
+    justify-content: center;
+}
+main{
+    display: flex;
+    width: 100%;
+    height: 600px;
+}
+table{
+    border-color: black;
+    text-align: center;
+}
+.Container{
+    border: solid;
+}
+.Theader{
+    text-align: center;
+border: solid 1px;
+}
+.First_Row{
+text-align: center;
+border: solid 1px;
+
+}
+.Second_Row{
+    text-align: center;
+    border: solid 1px;
+
+    }
+    td{
+        border: solid 0.5px;
+    }
+    footer{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        background-color: rgba(0, 94, 255, 0.516);
+    }
+    .Footer_Button{
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgba(240, 248, 255, 0);
+        color: aliceblue;
+        height: 60px;
+        width:100px;
+        font-family: serif;
+        font-size: 25px;
+    }
+    a{
+        text-decoration: none;
+    }
+    .Footer_Button:hover{
+        background-color: rgba(12, 133, 193, 0.398);
+    }
