@@ -1,49 +1,68 @@
 html{
+
     background-color: white;
     padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
 }
 header{
   display: flex;
   padding: 2% 5% 1px;  
+  width: 90%;
   
 }
 #ImaHeader{
   display: flex;
-  
-  width: 80px;
-  height: 80px;
+  width: 140px;
+  height: 140px;
 }
 nav ul{
   display: flex;
-  width: 400px;
+  width: 90%;
+  padding-top: 40px;
   justify-content: space-between;
+  text-decoration: none;
 }
 #Color_Letter{
   color: black;
+  font-size: larger;
+  margin-right: 20px;
 }
 #Color_Letter2{
   color: black;
+    font-size: larger;
+    margin-right: 20px;
+
 }
 #Color_Letter3{
   color: black;
+  font-size: larger;
+  margin-right: 20px;
+
 }
 #Color_Letter4{
   color: black;
+  font-size: larger;
+  margin-right: 20px;
+
 }
 .Header_World_Language{
   display: flex;
   width: 18px;
   height: 18px;
   padding-right:180px ;
+  padding-top: 40px;
   color: #454868;
 }
 .Header_World{
-  width: 18px;
-  height: 18px;
+  width: 20px;
+  height: 20px;
   padding-right: 14px;
 }
 .Nav_Header_Button{
   display: flex;
+  padding-top: 40px;
+ padding-right: px;
 }
 #Nav_Header_Button{
   border-radius: 8px;
@@ -52,6 +71,10 @@ nav ul{
   background-color: #9cde0fbb;
   color: black;
   border-color:rgba(0, 0, 0, 0);
+  
+}
+#Nav_Header_Button1{
+  font-size: larger;
 }
 #Nav_Header_Button:hover{
   background-color: #ED80FD;
@@ -70,6 +93,7 @@ nav ul{
 .Lang_Espan{
   margin-right: 100px;
   padding-left:1px ;
+  font-size: larger;
 }
 img{
     border-radius: 18px;
@@ -80,20 +104,20 @@ h1 {
   }
 .Baner_T1{
 font-family: 'Arial Narrow Bold';
-font-size: 44px;
+font-size: 55px;
 color:aliceblue;
-width: 450px;
+width: 550px;
 padding-left: 100px;
-line-height: 85px;
+line-height: 105px;
 padding-top: 10px;
 }
 #Banner_T2{
   padding-left: 100px;
   font-family: sans-serif;
-  font-size: 13.3px;
+  font-size: 16px;
   color:aliceblue;
-  width: 450px;
-  line-height: 22px;
+  width: 540px;
+  line-height: 28px;
 
 }
 h2 {
@@ -112,20 +136,22 @@ li{
   }
 #Banner{
     display: flex;
-    margin: 2% 5% 1px;
+    margin: 5% 5% 1px;
     border-radius: 35px;
-    border-bottom-right-radius: 190px;
+    border-bottom-right-radius: 290px;
     margin-top: 30px;
     background: linear-gradient(#5961F9, #ED80FD);
-    padding-bottom: 50px;
+    padding-bottom: 100px;
+    width: 90%;
+
 
   }
 .Img_Banner__1{
     padding-bottom: 0px;
-    padding-top: 40px;
-    padding-left: 25px;
-    width: 500px;
-    height: 360px;
+    padding-top: 70px;
+    padding-left: 65px;
+    width: 650px;
+    height: 440px;
 
 
   }
@@ -150,22 +176,24 @@ li{
 }
 #section-1{
   display: flex;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   padding: 0% 5% 1px;
+  width: 400px;
 }
 .Section-1__Info1{
   color: #010851;
   line-height: 50px;
-  font-size: 25px;
-
+  font-size: 35px;
+  line-height: 70px;
+  width: 380px;
 }
 .Section-1__Info2{
   color: black;
   margin-top: 10px;
   line-height: 18px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 12px;
-  padding-right: 60px;
+  font-size: 20px;
+  padding-right: 90px;
 }
 .Mast_Info{
   display: block;
@@ -173,54 +201,74 @@ li{
   padding-left: 105px;
   width: 300px;
   line-height: 10px;
+  width: 90%;
 }
+.Card1{
+padding-top: 10px;
+}
+.Card3{
+  padding-top: 10px;
+  }
 .Section-1__Card1{
   display: block;
-  margin-top: 80px;
-  width: 160px;
-  height: 225px;
+  margin-top: 90px;
+  width: 360px;
+  height: 300px;
   color: black;
   background-color: #cfcfcf00;
   box-shadow:2px 2px 7px rgb(75, 74, 74) ;
   padding: 10px;
   text-align: center;
   align-items: center;
-  margin-right: 60px;
+  margin-right: 70px;
+    margin-left: 50px;
+
   border-radius: 25px;
+  font-size: 22px;
 }
 .Section-1__Card2{
   display: block;
   margin-top: 160px;
-  width: 160px;
-  height: 225px;
+  width: 360px;
+  height: 300px;
   color: black;
   background-color: #cfcfcf00;
   box-shadow:2px 2px 7px rgb(75, 74, 74) ;
   padding: 10px;
   text-align: center;
   align-items: center;
-  margin-right: 60px;
+  margin-right: 70px;
   border-radius: 25px;
+  font-size: 22px;
 }
 .Section-1__Card3{
   display: block;
   margin-top: 80px;
-  width: 160px;
-  height: 225px;
+  width: 360px;
+  height: 300px;
   color: black;
   background-color: #cfcfcf00;
   box-shadow:2px 2px 7px rgb(75, 74, 74) ;
   padding: 10px;
   text-align: center;
   align-items: center;
-  margin-right: 60px;
+  margin-right: 70px;
   border-radius: 25px;
+  font-size: 22px;
+}
+h3{
+  margin:3px;
+ 
+}
+.Alcance{
+  padding-top: 20px;
 }
 #section-2{
   display: inherit;
   background-color: #ec80fd43;
   margin: 0px;
   padding-bottom: 100px;
+  padding-top: 20px;
  
 }
 .section-2__Info1{
@@ -237,19 +285,24 @@ li{
 .Text_section-2__Info1_1{
     color: #010851;
     font-family: sans-serif;
-    font-size: 37px;
+    font-size: 47px;
     margin-bottom: 8px;
-    line-height: 50px;
-    width: 450px;
+    line-height: 70px;
+    width: 590px;
 }
 .Text1_Somos{
-  width: 250px;
-
+  width: 340px;
+  color: black;
+  margin-top: 10px;
+  line-height: 18px;
+  font-family: serif;
+  font-size: 20px;
+  padding-right: 60px;
 }
 .Text_section-2__Info1_2{
     color: #ED80FD;
     font-family: sans-serif;
-    font-size: 37px;
+    font-size: 47px;
     margin-top: 2px;
 
 }
@@ -263,28 +316,29 @@ li{
 }
 .section-2__Info2{
   display: flex;
-  margin-top: 80px;
+  margin-top: 100px;
   padding-left:140px ;
 }
 p{
   color: #454868;
   font-family: sans-serif;
-  font-size: 12px;
+  font-size: 15px;
   line-height: 20px;
-  width: 450px;
+  width: 580px;
 }
 .Text_section-2__Info2_1{
   color: #010851;
     font-family: sans-serif;
-    font-size: 37px;
+    font-size: 47px;
 }
 .Text_section-2__Info2_2{
   color: #ED80FD;
     font-family: sans-serif;
-    font-size: 37px;
+    font-size: 47px;
 }
 .Text_section-2__Info2_3{
     margin-top: 80px;
+    font-size: 15px;
 }
 .section-2__Info2_Button{
   width: 100px;
@@ -306,8 +360,7 @@ footer{
   display: flex;
   background-color: #010851;
   padding:20px 30px ;
-  justify-items: flex-start;
-  align-items: flex-start;
+
   
 }
 .Footer__Info1{
@@ -315,21 +368,25 @@ footer{
 }
 .Footer_Text1{
   color: white;
-  width: 375px;
+  width: 470px;
   margin-top: 40px;
   margin-bottom: 50px;
+  font-size: 14px;
 }
 #User_Email{
   height: 40px;
-  width: 260px;
+  width: 290px;
   border-bottom-left-radius: 8px;
   border-top-left-radius: 8px;
   background-color:#fd909e28; 
   margin-left: 0px;
   margin-right: 0px;
 }
+.Footer__Email_Div{
+  width: 480px;
+}
 .Footer_Button{
-    width: 100px;
+    width: 120px;
     height: 43px;
     background-color:#FD909E ;
     border-bottom-right-radius: 8px;
@@ -344,6 +401,7 @@ footer{
     font-weight: 0.3px;
     color: whitesmoke;
     justify-content: center;
+    font-size: 22px;
     
 }
 .Footer__Info1{
@@ -355,25 +413,32 @@ footer{
 }
 table{
    line-height: 45px;
+   margin-left: 30px;
 }
 a{
   padding-left:12px;
   color: whitesmoke;
-  font-size: 11px;
+  font-size: 16px;
+  text-decoration: none;
 }
 .td_Sec_1{
   padding-right: 18px;
+  margin-right: 1px ;
 }
 .td_Sec_2{
-  padding-left:25px;
-
+  padding-left:75px;
+  margin-right: 90px ;
 }
 .td_Sec_3{
-  padding-left:75px;
+  padding-left:105px;
+  margin-right: 20px ;
 }
 .T_Head_sec2{
-  padding-left: 23px;
+  margin-right: 10px ;
 }
 thead{
   line-height: 40px;
+}
+.T_Head_sec2_Contact{
+
 }
