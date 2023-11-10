@@ -297,8 +297,7 @@ h3{
   margin-top: 10px;
   line-height: 18px;
   font-family: "Jost";
-
-  font-size: 20px;
+  font-size: 18px;
   padding-right: 60px;
 }
 .Text_section-2__Info1_2{
@@ -383,6 +382,9 @@ footer{
   background-color:#fd909e28; 
   margin-left: 0px;
   margin-right: 0px;
+  color: white;
+  font-family: serif;
+  font-size:larger;
 }
 .Footer__Email_Div{
   width: 480px;
