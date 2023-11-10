@@ -103,7 +103,7 @@ h1 {
     text-shadow: 2px 2px 5px rgb(75, 74, 74);
   }
 .Baner_T1{
-font-family: 'Arial Narrow Bold';
+font-family: "Jost";
 font-size: 55px;
 color:aliceblue;
 width: 550px;
@@ -113,7 +113,7 @@ padding-top: 10px;
 }
 #Banner_T2{
   padding-left: 100px;
-  font-family: sans-serif;
+  font-family: "Jost";
   font-size: 16px;
   color:aliceblue;
   width: 540px;
@@ -173,6 +173,7 @@ li{
   width: 100px;
   height: 40px;
   background-color: #cfcfcf00;
+  border-color: rgba(255, 255, 255, 0.614);
 }
 #section-1{
   display: flex;
@@ -191,7 +192,7 @@ li{
   color: black;
   margin-top: 10px;
   line-height: 18px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: "Jost";
   font-size: 20px;
   padding-right: 90px;
 }
@@ -284,7 +285,7 @@ h3{
 }
 .Text_section-2__Info1_1{
     color: #010851;
-    font-family: sans-serif;
+    font-family: "Jost";
     font-size: 47px;
     margin-bottom: 8px;
     line-height: 70px;
@@ -295,13 +296,14 @@ h3{
   color: black;
   margin-top: 10px;
   line-height: 18px;
-  font-family: serif;
+  font-family: "Jost";
+
   font-size: 20px;
   padding-right: 60px;
 }
 .Text_section-2__Info1_2{
     color: #ED80FD;
-    font-family: sans-serif;
+    font-family: "Jost";
     font-size: 47px;
     margin-top: 2px;
 
@@ -321,19 +323,19 @@ h3{
 }
 p{
   color: #454868;
-  font-family: sans-serif;
+  font-family: "Jost";
   font-size: 15px;
   line-height: 20px;
   width: 580px;
 }
 .Text_section-2__Info2_1{
   color: #010851;
-    font-family: sans-serif;
+  font-family: "Jost";
     font-size: 47px;
 }
 .Text_section-2__Info2_2{
   color: #ED80FD;
-    font-family: sans-serif;
+  font-family: "Jost";
     font-size: 47px;
 }
 .Text_section-2__Info2_3{
@@ -397,7 +399,7 @@ footer{
     margin-right: 0px;
 }
 .Footer_Thead{
-    font-family:serif;
+  font-family: 'Jost';
     font-weight: 0.3px;
     color: whitesmoke;
     justify-content: center;
@@ -441,4 +443,16 @@ thead{
 }
 .T_Head_sec2_Contact{
 
+}
+a{
+  font-family: 'Jost';
+}
+p{
+}
+
+h2{
+  font-family: 'Jost';
+}
+h3{
+  font-family: 'Jost';
 }
