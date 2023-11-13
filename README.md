@@ -4,7 +4,7 @@
      <p>Profesor: Cristian patiño</p>
      
 <h2>Link de la página Web</h2>
-<a href="https://davidlopezit1.github.io/Taller-9.Full-Stack/" target="_blank">Link Diseño Figma</a>
+<a href="https://davidlopezit1.github.io/Taller-9.Full-Stack/" target="_blank">Link de la página Web</a>
 <h2>Punto 1 : Link de Figma</h2>
 <a href="https://www.figma.com/file/i0WxaKhEFBCgVoiepPvJRB/David-L%C3%B3pez-Orozco?type=design&mode=design&t=QMUmCHIbh0AmEaRA-1" target="_blank">Link Diseño Figma</a>
 
